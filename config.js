@@ -39,7 +39,7 @@ var MARKER_COLORS = {
        { "name": "Ruby Rot",           "hex": "#9a0316", "glitter": false, "name_en": "Ruby Red" },
        { "name": "Magenta",            "hex": "#e41371", "glitter": false, "name_en": "Magenta" },
        { "name": "Lila",            	"hex": "#ca379b", "glitter": false, "name_en": "Purple" },
-       { "name": "Rosa",              	"hex": "#f77885", "glitter": false, "name_en": "Rose" }
+       { "name": "Rosa",              	"hex": "#f77885", "glitter": false, "name_en": "Rose" },
        { "name": "Orange",            	"hex": "#ff7f2c", "glitter": false, "name_en": "Orange" },
        { "name": "Melonengelb",        "hex": "#ffab01", "glitter": false, "name_en": "Melone-Yellow" },
        { "name": "Gelb",              	"hex": "#f1c21b", "glitter": false, "name_en": "Yellow" },
@@ -47,7 +47,7 @@ var MARKER_COLORS = {
        { "name": "Olivengrün",         "hex": "#59703e", "glitter": false, "name_en": "Olive" },
        { "name": "Türkis",             "hex": "#2dd3e0", "glitter": false, "name_en": "Turquoise" },
        { "name": "Blau",              	"hex": "#0d87bd", "glitter": false, "name_en": "Blue" },
-       { "name": "Dunkelblau",         "hex": "#101c45", "glitter": false, "name_en": "Dark Blue" },
+       { "name": "Dunkelblau",         "hex": "#101c45", "glitter": false, "name_en": "Dark Blue" }
   ]
 
 };
