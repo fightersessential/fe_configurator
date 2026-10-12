@@ -37,7 +37,7 @@ var MARKER_COLORS = {
        { "name": "Orange",            	"hex": "#ee7d1f", "glitter": false, "name_en": "Orange" },
        { "name": "Gelb",              	"hex": "#f1c21b", "glitter": false, "name_en": "Yellow" },
        { "name": "Melonengelb",        "hex": "#ffab01", "glitter": false, "name_en": "Melone-Yellow" },
-       { "name": "Elfenbein",          "hex": "#eddfc9", "glitter": false, "name_en": "Ivory" },     
+       { "name": "Elfenbein",          "hex": "#decfad", "glitter": false, "name_en": "Ivory" },     
        { "name": "Grün",              	"hex": "#438931", "glitter": false, "name_en": "Green" },
        { "name": "Magenta",            "hex": "#e41371", "glitter": false, "name_en": "Magenta" },
        { "name": "Lila",            	"hex": "#ca379b", "glitter": false, "name_en": "Purple" },
