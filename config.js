@@ -32,21 +32,22 @@ var MARKER_COLORS = {
        { "name": "Mystique", 		      "hex": "#45192d", "glitter": true, "hex_glitter": "#ffffff", "name_en": "Mystique" },
        { "name": "Mocha",			      "hex": "#b98a58", "glitter": true, "hex_glitter": "#643414", "name_en": "Mocha" },
        { "name": "Weiß",              	"hex": "#f0ece4", "glitter": false, "name_en": "White" },
+       { "name": "Elfenbein",          "hex": "#decfad", "glitter": false, "name_en": "Ivory" },   
        { "name": "Schwarz",           	"hex": "#141516", "glitter": false, "name_en": "Black" },
-       { "name": "Rot",               	"hex": "#d8382c", "glitter": false, "name_en": "Red" },
-       { "name": "Orange",            	"hex": "#ee7d1f", "glitter": false, "name_en": "Orange" },
-       { "name": "Gelb",              	"hex": "#f1c21b", "glitter": false, "name_en": "Yellow" },
-       { "name": "Melonengelb",        "hex": "#ffab01", "glitter": false, "name_en": "Melone-Yellow" },
-       { "name": "Elfenbein",          "hex": "#decfad", "glitter": false, "name_en": "Ivory" },     
-       { "name": "Grün",              	"hex": "#438931", "glitter": false, "name_en": "Green" },
+       { "name": "Bronze",           	"hex": "#86765d", "glitter": false, "name_en": "Bronze" }, 
+       { "name": "Braun",              "hex": "#493529", "glitter": false, "name_en": "Brown" },
+       { "name": "Ruby Rot",           "hex": "#9a0316", "glitter": false, "name_en": "Ruby Red" },
        { "name": "Magenta",            "hex": "#e41371", "glitter": false, "name_en": "Magenta" },
        { "name": "Lila",            	"hex": "#ca379b", "glitter": false, "name_en": "Purple" },
-       { "name": "Blau",              	"hex": "#0d87bd", "glitter": false, "name_en": "Blue" },
-       { "name": "Dunkelblau",         "hex": "#101c45", "glitter": false, "name_en": "Dark Blue" },     
-       { "name": "Braun",              "hex": "#493529", "glitter": false, "name_en": "Brown" },
+       { "name": "Rosa",              	"hex": "#f77885", "glitter": false, "name_en": "Rose" }
+       { "name": "Orange",            	"hex": "#ff7f2c", "glitter": false, "name_en": "Orange" },
+       { "name": "Melonengelb",        "hex": "#ffab01", "glitter": false, "name_en": "Melone-Yellow" },
+       { "name": "Gelb",              	"hex": "#f1c21b", "glitter": false, "name_en": "Yellow" },
+       { "name": "Gras-Grün",          "hex": "#438931", "glitter": false, "name_en": "Grass-Green" },
+       { "name": "Olivengrün",         "hex": "#59703e", "glitter": false, "name_en": "Olive" },
        { "name": "Türkis",             "hex": "#2dd3e0", "glitter": false, "name_en": "Turquoise" },
-       { "name": "Rosa",              	"hex": "#f77885", "glitter": false, "name_en": "Rose" },
-       { "name": "Olivengrün",         "hex": "#59703e", "glitter": false, "name_en": "Olive" }
+       { "name": "Blau",              	"hex": "#0d87bd", "glitter": false, "name_en": "Blue" },
+       { "name": "Dunkelblau",         "hex": "#101c45", "glitter": false, "name_en": "Dark Blue" },
   ]
 
 };
