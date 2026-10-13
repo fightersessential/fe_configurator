@@ -42,7 +42,7 @@ var MARKER_COLORS = {
        { "name": "Lila",            	"hex": "#ca379b", "glitter": false, "name_en": "Purple" },
        { "name": "Plasma-Lila",        "hex": "#a153a8", "glitter": false, "name_en": "Plasma-Purple" },
        { "name": "Rosa",              	"hex": "#f77885", "glitter": false, "name_en": "Rose" },
-       { "name": "Sakura",             "hex": "#f3bfc4", "glitter": false, "name_en": "Rose" },
+       { "name": "Sakura",             "hex": "#f3bfc4", "glitter": false, "name_en": "Sakura" },
        { "name": "Orange",            	"hex": "#ff7f2c", "glitter": false, "name_en": "Orange" },
        { "name": "Melonengelb",        "hex": "#ffab01", "glitter": false, "name_en": "Melone-Yellow" },
        { "name": "Gelb",              	"hex": "#f1c21b", "glitter": false, "name_en": "Yellow" },
