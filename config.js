@@ -40,6 +40,7 @@ var MARKER_COLORS = {
        { "name": "Ruby Rot",           "hex": "#9a0316", "glitter": false, "name_en": "Ruby Red" },
        { "name": "Magenta",            "hex": "#e41371", "glitter": false, "name_en": "Magenta" },
        { "name": "Lila",            	"hex": "#ca379b", "glitter": false, "name_en": "Purple" },
+       { "name": "Plasma-Lila",        "hex": "#a153a8", "glitter": false, "name_en": "Plasma-Purple" },
        { "name": "Rosa",              	"hex": "#f77885", "glitter": false, "name_en": "Rose" },
        { "name": "Orange",            	"hex": "#ff7f2c", "glitter": false, "name_en": "Orange" },
        { "name": "Melonengelb",        "hex": "#ffab01", "glitter": false, "name_en": "Melone-Yellow" },
