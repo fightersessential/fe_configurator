@@ -25,15 +25,16 @@ var MARKER_COLORS = {
   "stl_export": false,
 
   "colors": [
-       { "name": "Jade",			      "hex": "#08776d", "glitter": true, "hex_glitter": "#ffffff", "name_en": "Jade" },
+
        { "name": "Gold",			      "hex": "#a37f29", "glitter": true, "hex_glitter": "#ffffff", "name_en": "Gold" },
        { "name": "Silber",			      "hex": "#a3a9a7", "glitter": true, "hex_glitter": "#ffffff", "name_en": "Silver" },
        { "name": "Kirschrot", 		   "hex": "#7e2430", "glitter": true, "hex_glitter": "#ffffff", "name_en": "Cherry Red" },
+       { "name": "Jade",			      "hex": "#08776d", "glitter": true, "hex_glitter": "#ffffff", "name_en": "Jade" },
        { "name": "Mystique", 		      "hex": "#45192d", "glitter": true, "hex_glitter": "#ffffff", "name_en": "Mystique" },
        { "name": "Mocha",			      "hex": "#b98a58", "glitter": true, "hex_glitter": "#643414", "name_en": "Mocha" },
+       { "name": "Schwarz",           	"hex": "#141516", "glitter": false, "name_en": "Black" },
        { "name": "Weiß",              	"hex": "#f0ece4", "glitter": false, "name_en": "White" },
        { "name": "Elfenbein",          "hex": "#decfad", "glitter": false, "name_en": "Ivory" },   
-       { "name": "Schwarz",           	"hex": "#141516", "glitter": false, "name_en": "Black" },
        { "name": "Bronze",           	"hex": "#86765d", "glitter": false, "name_en": "Bronze" }, 
        { "name": "Braun",              "hex": "#493529", "glitter": false, "name_en": "Brown" },
        { "name": "Ruby Rot",           "hex": "#9a0316", "glitter": false, "name_en": "Ruby Red" },
@@ -43,8 +44,8 @@ var MARKER_COLORS = {
        { "name": "Orange",            	"hex": "#ff7f2c", "glitter": false, "name_en": "Orange" },
        { "name": "Melonengelb",        "hex": "#ffab01", "glitter": false, "name_en": "Melone-Yellow" },
        { "name": "Gelb",              	"hex": "#f1c21b", "glitter": false, "name_en": "Yellow" },
-       { "name": "Gras-Grün",          "hex": "#438931", "glitter": false, "name_en": "Grass-Green" },
        { "name": "Olivengrün",         "hex": "#59703e", "glitter": false, "name_en": "Olive" },
+       { "name": "Gras-Grün",          "hex": "#438931", "glitter": false, "name_en": "Grass-Green" },
        { "name": "Türkis",             "hex": "#2dd3e0", "glitter": false, "name_en": "Turquoise" },
        { "name": "Blau",              	"hex": "#0d87bd", "glitter": false, "name_en": "Blue" },
        { "name": "Dunkelblau",         "hex": "#101c45", "glitter": false, "name_en": "Dark Blue" }
