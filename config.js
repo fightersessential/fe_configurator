@@ -48,6 +48,7 @@ var MARKER_COLORS = {
        { "name": "Gelb",              	"hex": "#f1c21b", "glitter": false, "name_en": "Yellow" },
        { "name": "Olivengrün",         "hex": "#59703e", "glitter": false, "name_en": "Olive" },
        { "name": "Gras-Grün",          "hex": "#438931", "glitter": false, "name_en": "Grass-Green" },
+       { "name": "Mint",               "hex": "b4eec8", "glitter": false, "name_en": "Mint" },
        { "name": "Türkis",             "hex": "#2dd3e0", "glitter": false, "name_en": "Turquoise" },
        { "name": "Blau",              	"hex": "#0d87bd", "glitter": false, "name_en": "Blue" },
        { "name": "Dunkelblau",         "hex": "#101c45", "glitter": false, "name_en": "Dark Blue" }
